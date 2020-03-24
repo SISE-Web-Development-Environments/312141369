@@ -1,7 +1,9 @@
-#menu
-{
-	position: fixed;
-	width: 100%;
-	height: 35px;
-	background: white;
+#menu {
+    position: fixed;
+    width: 100%;
+    height: 35px;
+    background: rgb(102, 204, 255);
+}
+body {
+    background-image: linear-gradient(rgb(102, 204, 255), yellow);
 }
